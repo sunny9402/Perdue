@@ -1,5 +1,8 @@
 commit 1 after reset
 commit 2
 commit 3
+<<<<<<< HEAD
 
 stashing check 
+=======
+>>>>>>> 3c47cd06faf34482a3f3b606d637329f3fc460d8
